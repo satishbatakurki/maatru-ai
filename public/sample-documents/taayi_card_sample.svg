@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="100%" height="100%" style="background:#fefefe; font-family: sans-serif;">
+  <rect x="20" y="20" width="560" height="760" fill="#fffdfa" stroke="#d5dec8" stroke-width="2" rx="8"/>
+  <rect x="40" y="40" width="520" height="70" fill="#2D5A43" rx="4"/>
+  <text x="300" y="70" fill="#ffffff" font-size="16" font-weight="bold" text-anchor="middle" letter-spacing="1">GOVERNMENT OF KARNATAKA</text>
+  <text x="300" y="95" fill="#CAD2C5" font-size="12" text-anchor="middle">MOTHER &amp; CHILD PROTECTION CARD (TAAYI CARD)</text>
+  
+  <rect x="40" y="130" width="520" height="140" fill="#f8faf6" stroke="#e2ebd8" rx="4"/>
+  <text x="60" y="160" fill="#2D5A43" font-size="13" font-weight="bold">BENEFICIARY DEMOGRAPHICS &amp; REGISTRATION</text>
+  <line x1="60" y1="170" x2="540" y2="170" stroke="#d0dec4" stroke-width="1"/>
+  
+  <text x="60" y="200" fill="#555" font-size="11">RCH ID: <tspan font-weight="bold" fill="#111">KA-RCH-2026-99214</tspan></text>
+  <text x="320" y="200" fill="#555" font-size="11">Taayi No: <tspan font-weight="bold" fill="#111">TC-884219</tspan></text>
+  <text x="60" y="230" fill="#555" font-size="11">Mother: <tspan font-weight="bold" fill="#111">Sunita Devi</tspan></text>
+  <text x="320" y="230" fill="#555" font-size="11">Blood Group: <tspan font-weight="bold" fill="#c0392b">O Negative (Rh -ve)</tspan></text>
+  <text x="60" y="255" fill="#555" font-size="11">LMP: <tspan font-weight="bold" fill="#111">12-02-2026</tspan></text>
+  <text x="320" y="255" fill="#555" font-size="11">EDD: <tspan font-weight="bold" fill="#111">19-11-2026</tspan></text>
+  
+  <rect x="40" y="290" width="520" height="240" fill="#fff" stroke="#e0e0e0" rx="4"/>
+  <text x="60" y="320" fill="#2D5A43" font-size="13" font-weight="bold">ANTENATAL VISIT ENTRIES</text>
+  <line x1="60" y1="330" x2="540" y2="330" stroke="#e0e0e0" stroke-width="1"/>
+  
+  <text x="60" y="360" fill="#333" font-size="10" font-weight="bold">Visit</text>
+  <text x="120" y="360" fill="#333" font-size="10" font-weight="bold">Date</text>
+  <text x="200" y="360" fill="#333" font-size="10" font-weight="bold">GA</text>
+  <text x="260" y="360" fill="#333" font-size="10" font-weight="bold">BP</text>
+  <text x="340" y="360" fill="#333" font-size="10" font-weight="bold">Weight</text>
+  <text x="420" y="360" fill="#333" font-size="10" font-weight="bold">Hb</text>
+  <text x="480" y="360" fill="#333" font-size="10" font-weight="bold">FHR</text>
+  
+  <line x1="60" y1="375" x2="540" y2="375" stroke="#eee" stroke-width="1"/>
+  <text x="60" y="405" fill="#555" font-size="10">ANC-1</text>
+  <text x="120" y="405" fill="#555" font-size="10">10/04/26</text>
+  <text x="200" y="405" fill="#555" font-size="10">8w</text>
+  <text x="260" y="405" fill="#555" font-size="10">114/74</text>
+  <text x="340" y="405" fill="#555" font-size="10">58.5 kg</text>
+  <text x="420" y="405" fill="#555" font-size="10">11.2</text>
+  <text x="480" y="405" fill="#555" font-size="10">--</text>
+  
+  <line x1="60" y1="425" x2="540" y2="425" stroke="#eee" stroke-width="1"/>
+  <text x="60" y="455" fill="#555" font-size="10">ANC-2</text>
+  <text x="120" y="455" fill="#555" font-size="10">05/06/26</text>
+  <text x="200" y="455" fill="#555" font-size="10">16w</text>
+  <text x="260" y="455" fill="#555" font-size="10">118/76</text>
+  <text x="340" y="455" fill="#555" font-size="10">61.2 kg</text>
+  <text x="420" y="455" fill="#555" font-size="10">10.6</text>
+  <text x="480" y="455" fill="#555" font-size="10">148</text>
+
+  <rect x="40" y="550" width="520" height="150" fill="#fdfbf7" stroke="#e8dfce" rx="4"/>
+  <text x="60" y="580" fill="#92400e" font-size="12" font-weight="bold">CLINICAL OBSERVATIONS &amp; STAMPS</text>
+  <text x="60" y="610" fill="#444" font-size="10">Td-1: Administered on 05/06/26 at Taluk Hospital Kanakapura.</text>
+  <text x="60" y="630" fill="#444" font-size="10">IFA &amp; Calcium tablets issued for 60 days.</text>
+  <text x="60" y="650" fill="#444" font-size="10">Advised 75g OGTT at 24 weeks due to positive maternal family history.</text>
+
+  <circle cx="480" cy="620" r="35" fill="none" stroke="#2D5A43" stroke-width="2" stroke-dasharray="4 2"/>
+  <text x="480" y="615" fill="#2D5A43" font-size="8" font-weight="bold" text-anchor="middle">VERIFIED</text>
+  <text x="480" y="628" fill="#2D5A43" font-size="8" text-anchor="middle">MAATRU-AI</text>
+</svg>
